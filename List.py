@@ -1,4 +1,4 @@
-list1 = ["Ramesh","Rakshana","Aaditya","Aruna"]
+list1 = ["Ramesh", "Rakshana", "Aaditya", "Aruna"]
 print(type(list1))
 
 print(list1[0])
@@ -11,7 +11,7 @@ print(list1[1:3])
 print(list1[-3:-1])
 
 # For loop
-for temp in list1 :
+for temp in list1:
     print(temp)
 
 # If statement
